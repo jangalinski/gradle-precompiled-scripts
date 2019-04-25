@@ -1,4 +1,4 @@
 plugins {
   `hello-world`
-  //`foo.foo`
+  `sub.foo`
 }

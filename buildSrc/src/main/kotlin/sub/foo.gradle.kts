@@ -1,4 +1,4 @@
-package foo
+package sub
 
 tasks.register("foo") {
   doLast {
