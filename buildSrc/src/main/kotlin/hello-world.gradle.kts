@@ -1,3 +1,5 @@
 tasks.register("hello-world") {
-  println("HELLO WORLD!")
+  doLast {
+        println("Hello world!")
+  }
 }
