@@ -1,4 +1,4 @@
 plugins {
   `hello-world`
-  custom.`hello-world-custom`
+  toolisticon.`hello-world-custom`
 }
